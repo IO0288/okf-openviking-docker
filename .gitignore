@@ -1,0 +1,5 @@
+data/
+marketplaces/
+*.conf
+last_inject.md
+!ov.example.conf
