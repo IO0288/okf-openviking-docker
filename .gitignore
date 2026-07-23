@@ -1,5 +1,9 @@
 data/
-marketplaces/
 *.conf
+*.ovpack
+ovcli.conf.*
 last_inject.md
+
+marketplaces/
+
 !ov.example.conf
