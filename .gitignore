@@ -1,3 +1,4 @@
+.DS_Store
 data/
 *.conf
 *.ovpack
@@ -5,5 +6,10 @@ ovcli.conf.*
 last_inject.md
 
 marketplaces/
+openviking-repo/
 
 !ov.example.conf
+agent-integrations/
+codex-plugin-state/
+state/
+pending/
